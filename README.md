@@ -2,4 +2,4 @@
 
 [![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 
-This repository is for testing purposes, such as testing github actions and settings.
+This repository is for testing purposes, such as testing GitHub actions and settings.
